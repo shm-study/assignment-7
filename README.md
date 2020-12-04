@@ -2,7 +2,7 @@
 
 1. 다음 [github](https://github.com/shm-study/cv-assignment)를 fork(upstream → origin) 해옵니다.
 2. 로컬 저장소로 Origin을 `git clone` 합니다. (origin → local)
-3. 과제가 있는 branch 뒤에 `/<github_id>` 를 붙인 이름으로 새로운 branch를 생성합니다.
+3. 과제가 있는 branch 뒤에 `/<github_id>` 를 붙인 이름으로 새로운 branch를 생성합니다.  
 ex) github id가 crystal인 사람이 `assignment-1` branch에 있는 과제를 제출한다면 작업해야 하는 branch 이름은 `assignment-1/crystal`
 4. 작업이 잘 완료되었으면. `git push` 하여 Origin에 정보 저장
 5. Pull Request를 통해 과제 제출 완료 (origin → upstream)
